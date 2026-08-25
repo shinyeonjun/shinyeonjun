@@ -44,7 +44,6 @@ Python과 FastAPI를 중심으로 API, 데이터베이스, 비동기 작업을 �
 | 프로젝트 | 무엇을 만들었는가 | 주요 기술 |
 | --- | --- | --- |
 | [AX Studio](https://github.com/shinyeonjun/AX_studio) | 자연어로 맡긴 업무를 인터뷰로 구체화해 워크플로우로 만들고, 로컬에서 실행·승인·기록하는 AI 업무 자동화 데스크톱 앱 | TypeScript · Electron · React · SQLite · AI APIs |
-| [Backend Visual Map](https://github.com/shinyeonjun/visual_map) | 백엔드 코드와 관계형 DB 메타데이터의 관계를 근거와 함께 탐색하는 Windows 데스크톱 앱 | Rust · Tauri · React · SQLite |
 | [CAPS — Meeting Overlay Assistant](https://github.com/shinyeonjun/meeting-overlay-assistant) | 회의 중 live overlay와 회의 후 workspace·report·retrieval을 분리한 로컬 AI 회의 보조 시스템 | Python · FastAPI · PostgreSQL · pgvector · Redis · Tauri |
 | [DE-pipeline](https://github.com/shinyeonjun/DE-pipeline) | YouTube 데이터를 Raw → Clean → Mart로 적재하고 분석 API·대시보드·챗봇까지 연결한 파이프라인 | Python · FastAPI · GCP · Supabase · Next.js |
 | [AI Schedule Web](https://github.com/shinyeonjun/ai-schedule-web) | 자연어 입력을 일정 데이터로 구조화하고 Calendar·Gmail·ICS 흐름까지 연결한 서비스 | Python · FastAPI · OpenAI API · Google OAuth |
