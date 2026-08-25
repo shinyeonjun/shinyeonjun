@@ -1,8 +1,8 @@
 # 신연준
 
 <p align="center">
-  <strong>Python Backend Developer</strong><br />
-  데이터 흐름 · 실시간 시스템 · AI 기능을 제품으로 연결합니다.
+  <strong>Backend & AI Product Developer</strong><br />
+  백엔드와 데이터 시스템을 기반으로 AI 기능을 실제 제품으로 연결합니다.
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ## 한 줄 소개
 
-Python과 FastAPI를 중심으로 API, 데이터베이스, 비동기 작업, AI 기능이 실제 제품 안에서 이어지는 흐름을 설계하고 구현합니다.
+Python과 FastAPI를 중심으로 API, 데이터베이스, 비동기 작업을 설계하고, AI 기능이 실제 사용자 흐름 안에서 동작하는 제품을 구현합니다.
 
 화면을 만드는 것보다 **어떤 데이터가 어디서 들어와 어떤 경계를 지나고 무엇으로 검증되는지**를 명확하게 만드는 데 관심이 있습니다.
 
@@ -43,6 +43,7 @@ Python과 FastAPI를 중심으로 API, 데이터베이스, 비동기 작업, AI 
 
 | 프로젝트 | 무엇을 만들었는가 | 주요 기술 |
 | --- | --- | --- |
+| [AX Studio](https://github.com/shinyeonjun/AX_studio) | 자연어로 맡긴 업무를 인터뷰로 구체화해 워크플로우로 만들고, 로컬에서 실행·승인·기록하는 AI 업무 자동화 데스크톱 앱 | TypeScript · Electron · React · SQLite · AI APIs |
 | [Backend Visual Map](https://github.com/shinyeonjun/visual_map) | 백엔드 코드와 관계형 DB 메타데이터의 관계를 근거와 함께 탐색하는 Windows 데스크톱 앱 | Rust · Tauri · React · SQLite |
 | [CAPS — Meeting Overlay Assistant](https://github.com/shinyeonjun/meeting-overlay-assistant) | 회의 중 live overlay와 회의 후 workspace·report·retrieval을 분리한 로컬 AI 회의 보조 시스템 | Python · FastAPI · PostgreSQL · pgvector · Redis · Tauri |
 | [DE-pipeline](https://github.com/shinyeonjun/DE-pipeline) | YouTube 데이터를 Raw → Clean → Mart로 적재하고 분석 API·대시보드·챗봇까지 연결한 파이프라인 | Python · FastAPI · GCP · Supabase · Next.js |
@@ -67,7 +68,7 @@ Python과 FastAPI를 중심으로 API, 데이터베이스, 비동기 작업, AI 
 - **Backend:** Python, FastAPI, Pydantic, asyncio, WebSocket
 - **Data:** PostgreSQL, pgvector, Redis, Supabase, GCP
 - **AI:** OpenAI API, structured output, retrieval
-- **Product:** React, Next.js, Tauri, Docker
+- **Product:** React, Next.js, Electron, Tauri, Docker
 - **Other:** Rust, SQLite, TCP/UDP, GitHub Actions
 
 ## 현재
